@@ -1,13 +1,7 @@
 {
   "name": "webpack",
   "version": "1.0.0",
-  "private": true,
-  "script": {
-    "start": "webpack-dev-server",
-    "build": "webpack"
-  },
-  "devDependencies": {
-    "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.4.5"
-  }
+  "main": "index.js",
+  "author": "karaulovskin <karaulovskin@yandex.ru>",
+  "license": "MIT"
 }
