@@ -37,5 +37,8 @@ module.exports = {
                 }
             }
         ]
+    },
+    devServer: {
+        status: 'errors-only'
     }
 };
